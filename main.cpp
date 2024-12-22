@@ -6,4 +6,6 @@ int main() {
 	cout << "damn";
 
 	god nation
+
+		the stage
 }
